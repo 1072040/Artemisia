@@ -1,0 +1,6 @@
+artemisia.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+images/藥草
+bounds:2,2,1024,1024

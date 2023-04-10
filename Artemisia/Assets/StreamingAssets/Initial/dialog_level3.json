@@ -1,0 +1,131 @@
+{
+    "dialogs":[
+        {
+            "state":0,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":0,
+             "content":"長得好奇怪..."
+        },
+        {
+            "state":0,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":1,
+             "content":"雕像之間好像有某種關聯的樣子..."
+        },
+        {
+            "state":1,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":0,
+             "content":"長得好奇怪..."
+        },
+        {
+            "state":1,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":1,
+             "content":"雕像之間好像有某種關聯的樣子..."
+        },
+        {
+            "state":2,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":0,
+             "content":"長得好奇怪..."
+        },
+        {
+            "state":2,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":1,
+             "content":"雕像之間好像有某種關聯的樣子..."
+        },
+        {
+            "state":3,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":0,
+             "content":"長得好奇怪..."
+        },
+        {
+            "state":3,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":1,
+             "content":"雕像之間好像有某種關聯的樣子..."
+        },
+        {
+            "state":4,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":0,
+             "content":"長得好奇怪..."
+        },
+        {
+            "state":4,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":1,
+             "content":"雕像之間好像有某種關聯的樣子..."
+        },
+        {
+            "state":5,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":0,
+             "content":"長得好奇怪..."
+        },
+        {
+            "state":5,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":1,
+             "content":"雕像之間好像有某種關聯的樣子..."
+        },
+        {
+            "state":6,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":0,
+             "content":"長得好奇怪..."
+        },
+        {
+            "state":6,
+            "level":3,
+            "Object":4,
+            "figure_id":1,
+             "img_index": 4,
+             "operating_status":1,
+             "content":"雕像之間好像有某種關聯的樣子..."
+        }
+     
+    ]
+}

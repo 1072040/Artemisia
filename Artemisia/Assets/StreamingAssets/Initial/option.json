@@ -1,0 +1,69 @@
+{
+   "options":[
+      {
+         "state": 3,                
+         "level":1,
+         "figure_id":1,
+         "img_index": 4,
+         "count":3,                  
+         "content": "你是誰？",       
+         "return_state": 10,                  
+         "last_one":false              
+      }, {
+        "state": 3,                
+        "level":1,
+        "figure_id":1,
+        "img_index": 4,
+        "count":3,                  
+        "content": "我也不知道...",       
+        "return_state": 11,                  
+        "last_one":false              
+     }, {
+        "state": 3,                
+        "level":1,
+        "figure_id":1,
+         "img_index": 4,
+        "count":3,                  
+        "content": "聽說你會幫助召喚你的人...",       
+        "return_state": 12,                  
+        "last_one":true              
+      }, {
+         "state": 10,                
+         "level":1,
+         "figure_id":1,
+            "img_index": 4,
+         "count":2,                  
+         "content": "你可以救我母親嗎？",       
+         "return_state": 13,                  
+         "last_one":false              
+      }, {
+         "state": 10,                
+         "level":1,
+         "figure_id":1,
+         "img_index": 4,
+         "count":2,                  
+         "content": "聽說你會幫助召喚你的人...",       
+         "return_state": 12,                  
+         "last_one":true              
+      }, {
+         "state": 11,                
+         "level":1,
+         "figure_id":1,
+         "img_index": 3,
+         "count":2,                  
+         "content": "等等！！你可以救我母親嗎？",       
+         "return_state": 13,                  
+         "last_one":false              
+      }, {
+         "state": 11,                
+         "level":1,
+         "figure_id":1,
+         "img_index": 3,
+         "count":2,                  
+         "content": "我聽說你會幫助召喚你的人...",       
+         "return_state": 12,                  
+         "last_one":true              
+      }
+      
+     ]
+}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: bubble
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 3208f5905f3d029409199de99989b0c6, type: 3}
+    - {fileID: 21300000, guid: 6809944c9e918854eb081fd690f954ff, type: 3}
+    - {fileID: 21300000, guid: c42f235e57538ea43b180c4b9774df9c, type: 3}
+    - {fileID: 21300000, guid: d4dfcfe737c5f3943bb869e9a36a0f10, type: 3}
+    - {fileID: 21300000, guid: 613c52288365b264e9e45001f42e24b9, type: 3}
+    - {fileID: 21300000, guid: 55b8094adf436654c885cd9b5532c3de, type: 3}
+    - {fileID: 21300000, guid: dcf1d36a568f0474c89372f7f9afd78d, type: 3}
+    - {fileID: 21300000, guid: b8dab603d0ff97c40beb69f1128c2c96, type: 3}
+    - {fileID: 21300000, guid: 10321fe731024b34788a170f310daadf, type: 3}
+    - {fileID: 21300000, guid: ce1e70c77f4ea89429c78cf6210baa1a, type: 3}
+    - {fileID: 21300000, guid: 03667f0b960e1ed44ac4ccb8e5b5000c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3208f5905f3d029409199de99989b0c6, type: 3}
+  - {fileID: 21300000, guid: b8dab603d0ff97c40beb69f1128c2c96, type: 3}
+  - {fileID: 21300000, guid: ce1e70c77f4ea89429c78cf6210baa1a, type: 3}
+  - {fileID: 21300000, guid: 10321fe731024b34788a170f310daadf, type: 3}
+  - {fileID: 21300000, guid: d4dfcfe737c5f3943bb869e9a36a0f10, type: 3}
+  - {fileID: 21300000, guid: 613c52288365b264e9e45001f42e24b9, type: 3}
+  - {fileID: 21300000, guid: 55b8094adf436654c885cd9b5532c3de, type: 3}
+  - {fileID: 21300000, guid: dcf1d36a568f0474c89372f7f9afd78d, type: 3}
+  - {fileID: 21300000, guid: 03667f0b960e1ed44ac4ccb8e5b5000c, type: 3}
+  - {fileID: 21300000, guid: 6809944c9e918854eb081fd690f954ff, type: 3}
+  - {fileID: 21300000, guid: c42f235e57538ea43b180c4b9774df9c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u6CBC\u6FA41"
+  - "\u6CBC\u6FA48"
+  - "\u6CBC\u6FA410"
+  - "\u6CBC\u6FA49"
+  - "\u6CBC\u6FA44"
+  - "\u6CBC\u6FA45"
+  - "\u6CBC\u6FA46"
+  - "\u6CBC\u6FA47"
+  - "\u6CBC\u6FA411"
+  - "\u6CBC\u6FA42"
+  - "\u6CBC\u6FA43"
+  m_RenderDataMap: {}
+  m_Tag: bubble
+  m_IsVariant: 0

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f341cbbe356cae74f957fb1260fbe21e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Wandering_target: {fileID: 2730784670742938375, guid: 11f4c0d9fb4365a4f882327115aee398, type: 3}
+  - left: {instanceID: 0}
+  - right: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+精靈.png
+size:1275,612
+filter:Linear,Linear
+pma:true
+右手
+bounds:1124,370,100,91
+左手
+bounds:1124,463,149,147
+手杖
+bounds:2,10,570,600
+本體
+bounds:574,2,548,608
+球
+bounds:1124,299,71,69

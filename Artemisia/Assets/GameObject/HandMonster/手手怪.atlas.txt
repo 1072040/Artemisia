@@ -1,0 +1,14 @@
+手手怪.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+L1
+bounds:2,210,616,1032
+rotate:90
+L2
+bounds:1034,828,625,954
+rotate:90
+L3
+bounds:1036,2,960,824
+L4
+bounds:2,885,1030,568

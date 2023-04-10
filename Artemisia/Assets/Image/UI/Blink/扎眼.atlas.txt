@@ -1,0 +1,8 @@
+扎眼.png
+size:16384,4096
+filter:Linear,Linear
+pma:true
+blinkdown
+bounds:8006,71,8002,2323
+blinkup
+bounds:2,2,8002,2392

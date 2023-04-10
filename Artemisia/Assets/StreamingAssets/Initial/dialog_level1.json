@@ -1,0 +1,529 @@
+{
+    "dialogs":[
+        {
+            "state":4,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+             "img_index": 0,
+             "operating_status":0,
+             "content":"......"
+        }, {
+            "state":4,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+             "img_index": 0,
+             "operating_status":0,
+             "content":"別看了"
+        },{
+            "state":4,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+             "img_index": 0,
+             "operating_status":1,
+             "content":"我不會告訴妳位置的"
+        },
+       {
+           "state":6,
+           "level":1,
+           "Object":-1,
+           "figure_id":1,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"......"
+       },
+       {
+            "state":6,
+            "level":1,
+            "Object":-1,
+            "figure_id":1,
+            "img_index": 1,
+            "operating_status":1,
+            "content":"這裡看起來更陰森了..."
+        },
+        {
+            "state":7,
+            "level":1,
+            "Object":0,
+            "figure_id":1,
+            "img_index": 6,
+            "operating_status":0,
+            "content":"好像是一個檯子...？"
+        },
+        {
+            "state":7,
+            "level":1,
+            "Object":0,
+            "figure_id":1,
+            "img_index": 6,
+            "operating_status":1,
+            "content":"上面有個凹槽可以放東西的樣子"
+        },
+        {
+            "state":8,
+            "level":1,
+            "Object":0,
+            "figure_id":1,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"......"
+        },
+        {
+            "state":8,
+            "level":1,
+            "Object":0,
+            "figure_id":1,
+            "img_index": 0,
+            "operating_status":1,
+            "content":"！！！！！！！！！"
+        },
+        {
+            "state":9,
+            "level":1,
+            "Object":0,
+            "figure_id":1,
+            "img_index": 1,
+            "operating_status":1,
+            "content":"應該躲掉了吧......"
+        },
+        {
+            "state":20,
+            "level":1,
+            "Object":0,
+            "figure_id":2,
+            "img_index": 2,
+            "operating_status":0,
+            "content":"......"
+        },
+        {
+            "state":20,
+            "level":1,
+            "Object":0,
+            "figure_id":2,
+            "img_index": 2,
+            "operating_status":0,
+            "content":"不可以把寶石拿下來"  
+        },
+        {
+            "state":20,
+            "level":1,
+            "Object":0,
+            "figure_id":2,
+            "img_index": 2,
+            "operating_status":1,
+            "content":"這樣我又會被關回去的..."  
+        },
+        { 
+            "state":3,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"嘻嘻嘻" 
+        },{
+            "state":3,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"是人類小孩呢" 
+        },{
+            "state":3,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"......" 
+        },{
+            "state":3,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"妳找我是有甚麼事嗎？" 
+        },{
+            "state":3,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":2,
+            "content":" " 
+        },{
+            "state":10,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"我是這座森林的守護者" 
+        },{
+            "state":10,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"......" 
+        },{
+            "state":10,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"所以說妳到底有甚麼事？" 
+        },{
+            "state":10,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":2,
+            "content":" " 
+        },{
+            "state":11,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"......" 
+        },{
+            "state":11,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"好喔" 
+        },{
+            "state":11,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"那我先走了喔..." 
+        }
+        ,{
+            "state":11,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":2,
+            "content":" " 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"......" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"那妳想要甚麼呢？" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"你知道哪裡有阿特米莎草嗎？" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"......" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"............" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 2,
+            "operating_status":0,
+            "content":"......" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 2,
+            "operating_status":0,
+            "content":"妳要找那種草做甚麼？" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"我母親她生了重病" 
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"聽說阿特米莎草可以治療所有的病症"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"......"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"你..."
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"你知道...哪裡找得到嗎..."
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"......"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"............"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"我是不能告訴妳它在哪裡啦"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"不過..."
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"作為把我放出來的報答"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"我可以給妳一樣好東西"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"這個應該可以幫助到妳"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 2,
+            "operating_status":0,
+            "content":"......"
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 2,
+            "operating_status":1,
+            "content":"謝謝......"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"......"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"妳的母親是生病嗎？"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"還是怎麼了..."
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"我可不會治病喔"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"那你知道哪裡有阿特米莎草嗎？"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"......"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"你..."
+        },{
+            "state":12,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 4,
+            "operating_status":0,
+            "content":"你知道...哪裡找得到嗎..."
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index":1,
+            "operating_status":0,
+            "content":"......"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"............"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 1,
+            "operating_status":0,
+            "content":"我是不能告訴妳它在哪裡啦"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"不過..."
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"作為把我放出來的報答"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"我可以給妳一樣好東西"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":2,
+            "img_index": 0,
+            "operating_status":0,
+            "content":"這個應該可以幫助到妳"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 2,
+            "operating_status":0,
+            "content":"......"
+        },{
+            "state":13,
+            "level":1,
+            "Object":1,
+            "figure_id":1,
+            "img_index": 2,
+            "operating_status":1,
+            "content":"謝謝......"
+        }
+    ]
+}

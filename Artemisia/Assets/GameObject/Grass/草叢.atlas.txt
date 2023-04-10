@@ -1,0 +1,10 @@
+草叢.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+草/草 1/草1
+bounds:2,2,1026,1026
+草/草 2/草2
+bounds:1030,2,1026,1026
+草/草 3/草3
+bounds:2058,2,1026,1026

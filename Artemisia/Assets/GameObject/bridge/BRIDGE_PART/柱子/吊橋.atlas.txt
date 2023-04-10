@@ -1,0 +1,10 @@
+吊橋.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+右上
+bounds:2,2,155,361
+rotate:90
+左上
+bounds:365,2,155,361
+rotate:90

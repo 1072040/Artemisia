@@ -1,0 +1,6 @@
+吊橋.png
+size:128,4096
+filter:Linear,Linear
+pma:true
+右繩
+bounds:2,2,72,2976

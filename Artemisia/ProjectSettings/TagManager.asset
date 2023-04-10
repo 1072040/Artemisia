@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - story
+  - name
+  - 1
+  - 2
+  - 3
+  - ground
+  - Item
+  - Monster
+  - Treehole
+  - Lv1_normalmonster
+  - 0
+  - error
+  - correct
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Plane
+  - Shadow
+  - tree hole
+  - 2d view
+  - fornt view
+  - right view
+  - left view
+  - blockup
+  - scare tree hole
+  - map
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plane
+    uniqueID: 630263817
+    locked: 0
+  - name: Player
+    uniqueID: 843544677
+    locked: 0

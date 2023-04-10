@@ -1,0 +1,12 @@
+{
+    "figures": [ 
+        {
+            "id":1,
+            "name":"莉琪",
+            "img":"player"
+        },{
+            "id":2,
+            "name":"精靈",
+            "img":"elf"
+        }]
+}

@@ -1,0 +1,16 @@
+基礎怪.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+上頭骨
+bounds:1165,207,479,382
+上頭骨後
+bounds:1646,127,462,365
+rotate:90
+下頭骨
+bounds:1165,591,553,448
+下頭骨後
+bounds:1720,664,375,266
+rotate:90
+身體
+bounds:2,2,1161,1037

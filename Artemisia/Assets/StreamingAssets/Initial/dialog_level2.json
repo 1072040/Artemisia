@@ -1,0 +1,39 @@
+{
+    "dialogs":[
+        {
+            "state":0,
+            "level":2,
+            "Object":2,
+            "figure_id":0,
+             "img_index": 0,
+             "operating_status":0,
+             "content":"迷霧森林"
+        }, {
+            "state":0,
+            "level":2,
+            "Object":2,
+            "figure_id":0,
+             "img_index": 0,
+             "operating_status":0,
+             "content":"隱匿的通道"
+        },{
+            "state":0,
+            "level":2,
+            "Object":2,
+            "figure_id":0,
+             "img_index": 0,
+             "operating_status":1,
+             "content":"唯有紅樹附近能通往正確的道路"
+        },
+       {
+           "state":0,
+           "level":2,
+           "Object":3,
+           "figure_id":1,
+            "img_index": 0,
+            "operating_status":1,
+            "content":"......"
+       }
+     
+    ]
+}

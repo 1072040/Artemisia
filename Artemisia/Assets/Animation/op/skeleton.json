@@ -1,0 +1,533 @@
+{
+"skeleton": {
+	"hash": "srD4Sv0Y+i8",
+	"spine": "4.0.63",
+	"x": -963.05,
+	"y": -545.44,
+	"width": 1926.09,
+	"height": 1090.87,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "images/1", "bone": "root", "attachment": "images/1" },
+	{ "name": "images/2", "bone": "root", "attachment": "images/2" },
+	{ "name": "images/3", "bone": "root", "attachment": "images/3" },
+	{ "name": "images/4", "bone": "root", "attachment": "images/4" },
+	{ "name": "images/5", "bone": "root", "attachment": "images/5" },
+	{ "name": "images/6", "bone": "root", "attachment": "images/6" },
+	{ "name": "images/7", "bone": "root", "attachment": "images/7" },
+	{ "name": "images/8", "bone": "root", "attachment": "images/8" },
+	{ "name": "images/9", "bone": "root", "attachment": "images/9" },
+	{ "name": "images/10", "bone": "root", "attachment": "images/10" },
+	{ "name": "images/14", "bone": "root", "attachment": "images/14" },
+	{ "name": "images/11", "bone": "root", "attachment": "images/11" },
+	{ "name": "images/12", "bone": "root", "attachment": "images/12" },
+	{ "name": "images/13", "bone": "root", "attachment": "images/13" },
+	{ "name": "images/15", "bone": "root", "attachment": "images/15" },
+	{ "name": "images/黑", "bone": "root", "attachment": "images/黑" },
+	{ "name": "images/怎麼辦", "bone": "root", "attachment": "images/怎麼辦" },
+	{ "name": "images/怎麼辦2", "bone": "root", "attachment": "images/怎麼辦" },
+	{ "name": "images/怎麼辦3", "bone": "root", "attachment": "images/怎麼辦" },
+	{ "name": "images/媽媽她...得了不治之症", "bone": "root", "attachment": "images/媽媽她...得了不治之症" },
+	{ "name": "images/我到底該怎麼辦才好...", "bone": "root", "attachment": "images/我到底該怎麼辦才好..." },
+	{ "name": "images/這是", "bone": "root", "attachment": "images/這是" },
+	{ "name": "images/對了!", "bone": "root", "attachment": "images/對了!" },
+	{ "name": "images/只要前往那座森林", "bone": "root", "attachment": "images/只要前往那座森林" },
+	{ "name": "images/一定就有機會救活媽媽的!", "bone": "root", "attachment": "images/一定就有機會救活媽媽的!" },
+	{ "name": "images/媽媽...", "bone": "root", "attachment": "images/媽媽..." },
+	{ "name": "images/我出發了...", "bone": "root", "attachment": "images/我出發了..." },
+	{ "name": "images/你一定要等我回來", "bone": "root", "attachment": "images/你一定要等我回來" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"images/1": {
+				"images/1": { "rotation": -0.32, "width": 1920, "height": 1080 }
+			},
+			"images/2": {
+				"images/2": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 960, -540, -960, -540, -960, 540, 960, 540 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1920,
+					"height": 1080
+				}
+			},
+			"images/3": {
+				"images/3": { "width": 1920, "height": 1080 }
+			},
+			"images/4": {
+				"images/4": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 960, -540, -960, -540, -960, 540, 960, 540 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1920,
+					"height": 1080
+				}
+			},
+			"images/5": {
+				"images/5": { "width": 1920, "height": 1080 }
+			},
+			"images/6": {
+				"images/6": { "width": 1920, "height": 1080 }
+			},
+			"images/7": {
+				"images/7": { "width": 1920, "height": 1080 }
+			},
+			"images/8": {
+				"images/8": { "width": 1920, "height": 1080 }
+			},
+			"images/9": {
+				"images/9": { "width": 1920, "height": 1080 }
+			},
+			"images/10": {
+				"images/10": { "width": 1920, "height": 1080 }
+			},
+			"images/11": {
+				"images/11": { "width": 1920, "height": 1080 }
+			},
+			"images/12": {
+				"images/12": { "width": 1920, "height": 1080 }
+			},
+			"images/13": {
+				"images/13": { "width": 1920, "height": 1080 }
+			},
+			"images/14": {
+				"images/14": { "width": 1920, "height": 1080 }
+			},
+			"images/15": {
+				"images/15": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 960, -540, -960, -540, -960, 540, 960, 540 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1920,
+					"height": 1080
+				}
+			},
+			"images/一定就有機會救活媽媽的!": {
+				"images/一定就有機會救活媽媽的!": { "width": 809, "height": 66 }
+			},
+			"images/你一定要等我回來": {
+				"images/你一定要等我回來": { "width": 490, "height": 66 }
+			},
+			"images/只要前往那座森林": {
+				"images/只要前往那座森林": { "width": 558, "height": 66 }
+			},
+			"images/媽媽...": {
+				"images/媽媽...": { "width": 245, "height": 66 }
+			},
+			"images/媽媽她...得了不治之症": {
+				"images/媽媽她...得了不治之症": { "width": 757, "height": 70 }
+			},
+			"images/對了!": {
+				"images/對了!": { "width": 164, "height": 66 }
+			},
+			"images/怎麼辦": {
+				"images/怎麼辦": { "x": -361.33, "y": 245.03, "scaleX": 1.2064, "scaleY": 1.2064, "width": 555, "height": 165 }
+			},
+			"images/怎麼辦2": {
+				"images/怎麼辦": { "x": 379.35, "y": -21.11, "scaleX": 1.1005, "scaleY": 1.1005, "width": 555, "height": 165 }
+			},
+			"images/怎麼辦3": {
+				"images/怎麼辦": { "x": -82.65, "y": -295.03, "scaleX": 0.8398, "scaleY": 0.8398, "width": 555, "height": 165 }
+			},
+			"images/我出發了...": {
+				"images/我出發了...": { "width": 387, "height": 66 }
+			},
+			"images/我到底該怎麼辦才好...": {
+				"images/我到底該怎麼辦才好...": { "width": 746, "height": 68 }
+			},
+			"images/這是": {
+				"images/這是": { "width": 175, "height": 63 }
+			},
+			"images/黑": {
+				"images/黑": { "width": 1922, "height": 1082 }
+			}
+		}
+	}
+],
+"events": {
+	"bgm (online-audio-converter.com)": { "audio": "bgm (online-audio-converter.com).mp3" }
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"images/1": {
+				"rgba": [
+					{ "color": "00000000" },
+					{ "time": 1.6667, "color": "000000fb" },
+					{ "time": 1.9, "color": "fbfbfbfb" },
+					{ "time": 4.3667, "color": "e6fcd0fb" },
+					{ "time": 6.6667, "color": "fbfbfbfb" },
+					{ "time": 49.0667, "color": "fbfcf6fb" }
+				],
+				"attachment": [
+					{ "name": "images/1" },
+					{ "time": 1.9, "name": "images/1" }
+				]
+			},
+			"images/2": {
+				"rgba": [
+					{ "time": 7.1667, "color": "ffffff00" },
+					{ "time": 7.5, "color": "ffffffff" },
+					{ "time": 8.8, "color": "fff7d7ff" },
+					{ "time": 10.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 7.1667, "name": "images/2" }
+				]
+			},
+			"images/3": {
+				"rgba": [
+					{ "time": 10.6667, "color": "ffffff00" },
+					{ "time": 11, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 14.3333, "color": "ffffffff" },
+					{ "time": 14.6667, "color": "000000ff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 10.6667, "name": "images/3" }
+				]
+			},
+			"images/4": {
+				"rgba": [
+					{ "time": 14.3333, "color": "ffffff00" },
+					{ "time": 14.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 14.3333, "name": "images/4" },
+					{ "time": 18.0333, "name": null }
+				]
+			},
+			"images/5": {
+				"rgba": [
+					{ "time": 18.0333, "color": "ffffff00" },
+					{ "time": 18.6667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 18.0333, "name": "images/5" }
+				]
+			},
+			"images/6": {
+				"rgba": [
+					{ "time": 21.5, "color": "ffffff00" },
+					{ "time": 21.8333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 21.5, "name": "images/6" }
+				]
+			},
+			"images/7": {
+				"rgba": [
+					{ "time": 25.1333, "color": "ffffff00" },
+					{ "time": 25.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 27.3333, "color": "ffffffff" },
+					{ "time": 28.8667, "color": "000000ff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 25.1333, "name": "images/7" }
+				]
+			},
+			"images/8": {
+				"rgba": [
+					{ "time": 28.8667, "color": "ffffff00" },
+					{ "time": 29.2333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 28.8667, "name": "images/8" }
+				]
+			},
+			"images/9": {
+				"rgba": [
+					{ "time": 30.6, "color": "ffffff00" },
+					{ "time": 30.9667, "color": "fffffffe" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 30.6, "name": "images/9" }
+				]
+			},
+			"images/10": {
+				"rgba": [
+					{ "time": 32.4667, "color": "ffffff00" },
+					{ "time": 32.8333, "color": "ffffffff" },
+					{ "time": 33.9667, "color": "99b8e0ff" },
+					{ "time": 34.5, "color": "e7fff7ff" },
+					{ "time": 36.6, "color": "c3a59dff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 32.4667, "name": "images/10" }
+				]
+			},
+			"images/11": {
+				"rgba": [
+					{ "time": 42.8, "color": "ffffff00" },
+					{ "time": 43.3333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 43.1667, "name": "images/11" }
+				]
+			},
+			"images/12": {
+				"rgba": [
+					{ "time": 37.1667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 36.2333, "name": "images/12" },
+					{ "time": 40.1667, "name": null }
+				]
+			},
+			"images/13": {
+				"rgba": [
+					{ "time": 39.5333, "color": "ffffff00" },
+					{ "time": 40.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 42.8, "color": "ffffffff" },
+					{ "time": 43.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 39.5333, "name": "images/13" }
+				]
+			},
+			"images/14": {
+				"rgba": [
+					{ "time": 34.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 34.6333, "name": "images/14" }
+				]
+			},
+			"images/15": {
+				"rgba": [
+					{ "time": 46.6667, "color": "ffffff00" },
+					{ "time": 47, "color": "ffffffff" },
+					{ "time": 49.0667, "color": "e5e5e5ff" },
+					{ "time": 50.5, "color": "ffffffff" },
+					{ "time": 54.2333, "color": "000000ff", "curve": "stepped" },
+					{ "time": 60, "color": "000000ff" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 46.6667, "name": "images/15" },
+					{ "time": 60, "name": null }
+				]
+			},
+			"images/一定就有機會救活媽媽的!": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 36.2, "color": "ffffff00" },
+					{ "time": 36.4667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 37.9, "color": "ffffffff" },
+					{ "time": 38.1, "color": "ffffff00" }
+				]
+			},
+			"images/你一定要等我回來": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 54.1667, "color": "ffffff00" },
+					{ "time": 54.5, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 57.8, "color": "ffffffff" },
+					{ "time": 59.6667, "color": "ffffff00" }
+				]
+			},
+			"images/只要前往那座森林": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 27.0333, "color": "ffffff00" },
+					{ "time": 27.3, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 28.8667, "color": "ffffffff" },
+					{ "time": 29.0667, "color": "ffffff00" }
+				]
+			},
+			"images/媽媽...": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 41.4333, "color": "ffffff00" },
+					{ "time": 41.7667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 43.2, "color": "ffffffff" },
+					{ "time": 43.4, "color": "ffffff00" }
+				]
+			},
+			"images/媽媽她...得了不治之症": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 9.1, "color": "ffffff00" },
+					{ "time": 9.3667, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 10.8333, "color": "ffffffff" },
+					{ "time": 11.0333, "color": "ffffff00" }
+				]
+			},
+			"images/對了!": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 23.8333, "color": "ffffff00" },
+					{ "time": 24.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 24.7667, "color": "ffffffff" },
+					{ "time": 24.9333, "color": "ffffff00" }
+				]
+			},
+			"images/怎麼辦": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 3.8667, "color": "ffffff00" },
+					{ "time": 4.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 6.6667, "color": "ffffffff" },
+					{ "time": 6.8667, "color": "ffffff00" }
+				]
+			},
+			"images/怎麼辦2": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 7, "color": "ffffffff" },
+					{ "time": 7.2, "color": "ffffff00" }
+				]
+			},
+			"images/怎麼辦3": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 5.6, "color": "ffffff00" },
+					{ "time": 5.9333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 7.2, "color": "ffffffff" },
+					{ "time": 7.4, "color": "ffffff00" }
+				]
+			},
+			"images/我出發了...": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 45.4333, "color": "ffffff00" },
+					{ "time": 45.7, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 48.1333, "color": "ffffffff" },
+					{ "time": 49.0667, "color": "ffffff00" }
+				]
+			},
+			"images/我到底該怎麼辦才好...": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 12.5, "color": "ffffff00" },
+					{ "time": 12.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 14.6667, "color": "ffffffff" },
+					{ "time": 14.8333, "color": "ffffff00" }
+				]
+			},
+			"images/這是": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 18.0667, "color": "ffffff00" },
+					{ "time": 18.2667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 19.2667, "color": "ffffffff" },
+					{ "time": 19.5, "color": "ffffff00" }
+				]
+			},
+			"images/黑": {
+				"rgba": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 3.6667, "color": "ffffff00" },
+					{ "time": 4, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 7.3333, "color": "ffffffff" },
+					{ "time": 7.6667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 8.7333, "color": "ffffff00" },
+					{ "time": 8.9667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 11, "color": "ffffffff" },
+					{ "time": 11.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 12.1667, "color": "ffffff00" },
+					{ "time": 12.4, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 14.6667, "color": "ffffffff" },
+					{ "time": 17.4, "color": "ffffff00" },
+					{ "time": 17.7, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 19.7333, "color": "ffffffff" },
+					{ "time": 20.0667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 23.7, "color": "ffffff00" },
+					{ "time": 23.9333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 25.0333, "color": "ffffffff" },
+					{ "time": 25.2333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 26.5333, "color": "ffffff00" },
+					{ "time": 26.8, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 28.6667, "color": "fffffffe" },
+					{ "time": 28.8667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 35.7667, "color": "ffffff00" },
+					{ "time": 36.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 37.9, "color": "ffffffff" },
+					{ "time": 38.2, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 40.8, "color": "ffffff00" },
+					{ "time": 41.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 43.2, "color": "fffffffe" },
+					{ "time": 43.5333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 45.1, "color": "ffffff00" },
+					{ "time": 45.4333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 48.6333, "color": "ffffffff" },
+					{ "time": 49.6667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 54.1667, "color": "ffffff00" },
+					{ "time": 54.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 62.6667, "color": "fffffffe" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"translate": [
+					{ "time": 1.1, "x": -14.26 },
+					{ "time": 3.8333 }
+				],
+				"scale": [
+					{ "time": 1.0667, "x": 1.039, "y": 1.039 },
+					{ "time": 3.8333 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"images/4": {
+					"images/4": [
+						{ "time": 14.6667 },
+						{
+							"time": 17.4,
+							"vertices": [ 42.65289, -23.99237, -42.65302, -23.99219, -42.65289, 23.99237, 42.65302, 23.99219 ]
+						}
+					]
+				},
+				"images/15": {
+					"images/15": [
+						{
+							"time": 46.6,
+							"vertices": [ 26.71289, -13.04553, -26.71295, -13.04547, -26.71289, 17.00659, 26.71295, 17.00653 ]
+						},
+						{
+							"time": 60.1667,
+							"vertices": [ 115.0249, -104.13452, -115.02515, -104.13422, -115.0249, 25.26892, 115.02515, 25.26862 ]
+						}
+					]
+				}
+			}
+		},
+		"events": [
+			{ "name": "bgm (online-audio-converter.com)" }
+		]
+	}
+}
+}

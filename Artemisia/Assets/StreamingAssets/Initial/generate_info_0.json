@@ -1,0 +1,32 @@
+{
+    "generate_infos": [
+        {
+            "id": -12,
+            "cid": 46,
+            "owned": false,
+            "level": 0,
+            "generate": true,
+            "generate_state": 0,
+            "position_x": 16.4,
+            "position_y": 0.0,
+            "position_z": -65.07,
+            "rotation_x": 0.0,
+            "rotation_y": 0.0,
+            "rotation_z": 0.0
+        },
+        {
+            "id": 108,
+            "cid": 30,
+            "owned": false,
+            "level": 0,
+            "generate": false,
+            "generate_state": 0,
+            "position_x": 0.0,
+            "position_y": 0.0,
+            "position_z": 0.0,
+            "rotation_x": 0.0,
+            "rotation_y": 0.0,
+            "rotation_z": 0.0
+        }
+    ]
+}

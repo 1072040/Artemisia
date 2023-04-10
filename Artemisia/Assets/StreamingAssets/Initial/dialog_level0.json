@@ -1,0 +1,95 @@
+{
+    "dialogs":[
+       {
+           "state":5,
+           "level":0,
+           "Object":0,
+           "figure_id":0,
+            "img_index_index": 0,
+            "operating_status":1,
+            "content":"按下 WASD 移動角色"
+       },
+       {
+            "state":6,
+            "level":0,
+            "Object":0,
+            "figure_id":0,
+            "img_index": 0,
+            "operating_status":1,
+            "content":"移動時按下 Shift 可以奔跑"
+        },
+        {
+             "state":7,
+             "level":0,
+             "Object":0,
+             "figure_id":1,
+             "img_index": 5,
+             "operating_status":0,
+             "content":"阿......"
+         },
+         {
+              "state":7,
+              "level":0,
+              "Object":0,
+              "figure_id":1,
+              "img_index": 5,
+              "operating_status":0,
+              "content":"怎麼掉了......"
+          },
+          {
+               "state":7,
+               "level":0,
+               "Object":0,
+               "figure_id":1,
+               "img_index": 5,
+               "operating_status":1,
+               "content":"得趕緊撿起來趕路才行"
+           },
+           {
+                "state":8,
+                "level":0,
+                "Object":0,
+                "figure_id": 0,
+                "img_index": 0,
+                "operating_status":1,
+                "content":"按下E可以撿起物品或與場景中物件互動"
+            },
+            {
+                 "state":9,
+                 "level":0,
+                 "Object":0,
+                 "figure_id": 0,
+                 "img_index": 0,
+                 "operating_status":1,
+                 "content":"按下B查看背包內的物品"
+             },
+             {
+                  "state":10,
+                  "level":0,
+                  "Object":0,
+                  "figure_id": 1,
+                  "img_index": 6,
+                  "operating_status":0,
+                  "content":"先確認一下現在的位置再出發好了..."
+              },
+              {
+                "state":10,
+                "level":0,
+                "Object":0,
+                "figure_id": 0,
+                "img_index": 0,
+                "operating_status":1,
+                "content":"按下M打開地圖確認現在位置"
+            },
+              {
+                   "state":11,
+                   "level":0,
+                   "Object":0,
+                   "figure_id": 1,
+                   "img_index": 1,
+                   "operating_status":1,
+                   "content":"得快把書撿起來"
+               }
+        
+    ]
+}

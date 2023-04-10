@@ -1,0 +1,77 @@
+盯樹洞怪.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+上 的複製
+bounds:1608,533,443,419
+rotate:90
+上 的複製 2
+bounds:1113,568,493,408
+上手 的複製
+bounds:2,1556,291,318
+rotate:90
+上手 的複製 2
+bounds:1770,1673,273,337
+上臉
+bounds:1436,978,396,364
+下 的複製
+bounds:627,2,672,564
+下 的複製 2
+bounds:2,205,623,578
+下手 的複製
+bounds:2,785,671,385
+下手 的複製 2
+bounds:368,1172,688,349
+下臉
+bounds:675,735,397,436
+rotate:90
+中指 的複製
+bounds:1088,1488,324,394
+rotate:90
+中指 的複製 2
+bounds:1058,1134,352,376
+rotate:90
+前指 的複製
+bounds:702,1523,308,384
+rotate:90
+前指 的複製 2
+bounds:2,1208,335,364
+rotate:90
+後指 的複製
+bounds:322,1545,299,378
+rotate:90
+後指 的複製 2
+bounds:1484,1344,327,361
+rotate:90
+牙上1
+bounds:1436,1814,332,196
+牙上2
+bounds:854,1833,297,177
+牙上3
+bounds:292,1849,293,161
+牙下1
+bounds:1153,1833,281,177
+牙下2
+bounds:587,1846,265,164
+牙下3
+bounds:36,1872,254,138
+眼睛亮點
+bounds:2,1981,29,32
+rotate:90
+
+盯樹洞怪_2.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+正常頭
+bounds:2,671,1600,500
+身體
+bounds:2,2,667,815
+rotate:90
+
+盯樹洞怪_3.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+扶樹手
+bounds:2,2,1024,2000

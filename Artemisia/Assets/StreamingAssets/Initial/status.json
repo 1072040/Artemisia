@@ -1,0 +1,25 @@
+{
+    "status": [{
+        "level": 0,
+        "current_status": 0,
+        "max_status": 1,
+        "isfinished": false
+    },
+    {
+        "level": 1,
+        "current_status": 0,
+        "max_status": 4,
+        "isfinished": false
+    },  {
+        "level": 2,
+        "current_status": 0,
+        "max_status": 1,
+        "isfinished": false
+    },
+    {
+        "level": 3,
+        "current_status": 0,
+        "max_status": 7,
+        "isfinished": false
+    }]
+}

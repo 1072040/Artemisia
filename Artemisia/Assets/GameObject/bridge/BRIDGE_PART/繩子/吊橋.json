@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "aNYI9QWiW84",
+	"spine": "4.0.62",
+	"x": -41.89,
+	"y": 1.65,
+	"width": 74.11,
+	"height": 2976.05,
+	"images": "./images/",
+	"audio": "D:/user/Desktop/畢製動畫/吊橋"
+},
+"bones": [
+	{ "name": "root", "rotation": -0.09 }
+],
+"slots": [
+	{ "name": "右繩", "bone": "root", "attachment": "右繩" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"右繩": {
+				"右繩": { "x": -7.24, "y": 1489.67, "rotation": 0.05, "width": 72, "height": 2976 }
+			}
+		}
+	}
+],
+"animations": {
+	"NONE": {}
+}
+}

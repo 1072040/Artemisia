@@ -1,0 +1,11 @@
+skeleton.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+images/刺/前大刺
+bounds:2,15,699,760
+rotate:90
+images/刺/後大刺
+bounds:1278,2,378,712
+images/刺/頭骨
+bounds:764,202,512,512
